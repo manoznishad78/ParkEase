@@ -1,0 +1,26 @@
+Vehicle KA01AB1234 parked in slot 1
+Vehicle KA01AB1234 removed from slot 1
+Vehicle KA01AA1001 parked in slot 1
+Vehicle KA01AA1002 parked in slot 2
+Vehicle KA01AA1003 parked in slot 3
+Vehicle KA01AA1004 parked in slot 4
+Vehicle KA01AA1005 parked in slot 5
+Vehicle KA01AA1006 parked in slot 6
+Vehicle KA01AA1007 parked in slot 7
+Vehicle KA01AA1008 parked in slot 8
+Vehicle KA01AA1009 parked in slot 9
+Vehicle KA01AA1010 parked in slot 10
+Vehicle KA01AA1011 parked in slot 11
+Vehicle KA01AA1012 parked in slot 12
+Vehicle KA01AA1013 added to waiting queue
+Vehicle KA01AA1001 removed from slot 1
+Vehicle KA01AA1013 promoted from waiting queue to slot 1
+Vehicle KA01ZZ9876 added to waiting queue
+Vehicle ka01ab1234 added to waiting queue
+Vehicle KA01XY4321 added to waiting queue
+Vehicle KA01AA1013 removed from slot 1
+Vehicle KA01ZZ9876 promoted from waiting queue to slot 1
+Vehicle KA01AA1234 parked in slot 1
+Vehicle KA01A1234 parked in slot 2
+Vehicle DL8CAF1234 parked in slot 3
+Vehicle KA01AB5678 added to waiting queue
